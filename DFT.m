@@ -1,4 +1,4 @@
-% DSP Discrete Fourier Transform Project
+% DSP Discrete Fourier Transform Project using MATLAB
 
 clear; close all; clc;
 
